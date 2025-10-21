@@ -3,25 +3,24 @@ import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 
 export default defineConfig({
-  site: "https://AlexDuchnowski.github.io",
-  base: "/website",
+    site: "https://AlexDuchnowski.github.io",
 
-  vite: {
-      css: {
-          preprocessorOptions: {
-              scss: {
-                  additionalData: `@use "/src/styles" as *;`,
-              },
-          },
-      },
-  },
+    vite: {
+        css: {
+            preprocessorOptions: {
+                scss: {
+                    additionalData: `@use "/src/styles" as *;`,
+                },
+            },
+        },
+    },
 
-  markdown: {
-      shikiConfig: {
-          // theme: "monokai",
-          theme: "material-theme-darker",
-      },
-  },
+    markdown: {
+        shikiConfig: {
+            // theme: "monokai",
+            theme: "material-theme-darker",
+        },
+    },
 
-  integrations: [mdx()],
+    integrations: [mdx()],
 });

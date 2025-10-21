@@ -9,4 +9,4 @@ description: An analysis of the uses and meanings of reduplication in movie dial
 
 As our final project for our Corpus Linguistics course, my group decided to analyze the use of reduplication (a linguistic phenomenon where a word is repeated) in movie dialogues.
 
-Using a combination of bash scripting, manual annotation, and R programming, we analyzed several hundred examples of reduplication in movies. For a full writeup of our project, please go to <a href="/website/projects/reduplication-writeup">this link</a>.
+Using a combination of bash scripting, manual annotation, and R programming, we analyzed several hundred examples of reduplication in movies. For a full writeup of our project, please go to <a href="/projects/reduplication-writeup">this link</a>.
