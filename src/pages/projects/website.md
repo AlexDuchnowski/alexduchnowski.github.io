@@ -2,7 +2,7 @@
 layout: ../../layouts/ProjectLayout.astro
 
 title: Website
-githubURL: https://github.com/AlexDuchnowski/website
+githubURL: https://github.com/alexduchnowski.github.io
 tags: ["Astro", "TypeScript", "HTML", "CSS"]
 description: The website you are currently viewing
 ---
