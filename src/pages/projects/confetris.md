@@ -20,6 +20,6 @@ Eventually, I decided to allow the player to make these design choices themselve
 
 To play the game, you can click the "Ready to start !" text below and then interact using your keyboard (the game is currently not playable on mobile devices). The game is also available on [itch.io](https://xenonhawk.itch.io/confetris).
 
-<iframe title="Confetris Game" frameborder="0" src="https://itch.io/embed/3797181" allowfullscreen=""><a href="https://alexduchnowski.itch.io/confetris">CONFETRIS by AlexDuchnowski</a></iframe>
+<iframe title="Confetris" frameborder="0" src="https://itch.io/embed-upload/14599993?color=000000" allowfullscreen="" width="640" height="380"><a href="https://alexduchnowski.itch.io/confetris">Play CONFETRIS on itch.io</a></iframe>
 
 The game is written in Python and uses the [Pygame](https://www.pygame.org) library. The code is available on [GitHub](https://github.com/AlexDuchnowski/confetris).
